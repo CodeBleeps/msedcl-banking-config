@@ -1,9 +1,9 @@
 #Custom Properties - Used in application
 build:
-    version: "2.0"
+    version: "3.0"
 
 customer:
-    message: "Welcome to MSEDCL bank customer related REST API - PRODUCTION REST API With Changes"
+    message: "Welcome to MSEDCL bank customer related REST API - PRODUCTION REST API With Changes validation"
     contactDetails:
         name: "ISHWAR PRODUCTION PROFILE"
         email: "ishwar_chaudhari@mahadiscom.in"
