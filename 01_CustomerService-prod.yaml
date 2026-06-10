@@ -1,6 +1,6 @@
 #Custom Properties - Used in application
 build:
-    version: "2.9"
+    version: "3.0"
 
 customer:
     message: "Welcome to MSEDCL bank customer related REST API - PRODUCTION REST API With Changes validation"
